@@ -1,0 +1,11 @@
+[package]
+name = "dungeoncrawl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bracket-lib = "~0.8.7"
+legion = "=0.3.1"
+
+[profile.release]
+debug = true
