@@ -1,3 +1,13 @@
-# Aprendendo-Rust
+# Rust
 
-Este conteúdo está sendo construído a partir da leitura do livro [The Rust Programming Language](https://doc.rust-lang.org/book/) e com a contribuição dos membros do grupo no Telegram [Rust Brasil](https://t.me/rustlangbr).
+## Índice rápido
+
+- [Fundamentos](modules/01-fundamentals/README.md)
+- [Networking](modules/02-networking/README.md)
+- [Jogos](modules/03-games/README.md)
+
+## Referências
+
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- Comunidade [Rust Brasil](https://t.me/rustlangbr)
+- [hands-on-rust](https://hands-on-rust.com/2022/04/27/)

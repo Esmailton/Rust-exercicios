@@ -57,4 +57,7 @@ Cargo.lock
 # Ignore code-workspaces
 *.code-workspace
 
+### Project-specific ###
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/rust,visualstudiocode,linux

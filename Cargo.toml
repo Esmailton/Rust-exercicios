@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "modules/01-fundamentals/simple-calculator",
+    "modules/02-networking/chat-server-client/client",
+    "modules/02-networking/chat-server-client/server",
+    "modules/02-networking/web-server",
+    "modules/03-games/dungeon-crawl",
+    "modules/03-games/flappy",
+    "modules/03-games/snake-game",
+]
